@@ -1,10 +1,9 @@
 # JS_Exercises_2021
 
-I participated in a JaveScript learning course for 12 weeks in 2020. It contained: 
+I participated in a JaveScript Basics learning course for 12 weeks in 2020. It contained: 
 
 > One Unit \
-> A Middle Term Exam after the 11th week \
-> A Final Exam, evaluation, and certification 
+> A Final Exam and certification 
 
 > [!IMPORTANT]
 > If you want to check out the earned certificate, you should most definitely message me \
