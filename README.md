@@ -1,6 +1,6 @@
 # JS_Exercises_2021
 
-I participated in a JaveScript Basics learning course for 12 weeks in 2020. It contained: 
+I participated in a JaveScript Basics learning course for 12 weeks in 2021. It contained: 
 
 > One Unit \
 > A Final Exam and certification 
