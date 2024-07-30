@@ -6,7 +6,7 @@ I participated in a JaveScript Basics learning course for 12 weeks in 2021. It c
 > A Final Exam and certification 
 
 > [!IMPORTANT]
-> If you want to check out the earned certificate, you should most definitely message me \
+> If you want to check out the earned certificate, you should most definitely message me on \
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-kantardzhieva) 
 
 
